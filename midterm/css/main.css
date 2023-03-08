@@ -35,12 +35,9 @@ header img {
 }
 
 
-
 h2 {
     font-weight: 50;
 }
-
-
 
 nav ul li {
     margin: 0;
@@ -73,6 +70,10 @@ section ul {
 .form {
     border: solid;
     padding: 15px;
+}
+
+.form label {
+    padding-bottom: 1rem;
 }
 
 
